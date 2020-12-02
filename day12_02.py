@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 
-print 'False'
 
-print 'Well'
+
+print 'Wall'
 
 print 'Even'
